@@ -1,5 +1,8 @@
 _repo: An-Essay-on-Laughter-Its-Forms-its-Causes-its-Development-and-its-Value_58606
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58606-h/images/cover.jpg
 creator:
   author:
     agent_name: Sully, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7616
     wikipedia: http://en.wikipedia.org/wiki/James_Sully
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58606#An-Essay-on-Laughter-Its-Forms-its-Causes-its-Development-and-its-Value
 gutenberg_issued: '2019-01-03'
 gutenberg_type: Text
 identifiers:
